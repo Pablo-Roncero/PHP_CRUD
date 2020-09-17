@@ -8,7 +8,7 @@ As a way to describe the table's structure, it is a four columns table with the 
 ("Name", Last name, Address).
 
 ## Technologies
-The programming languages used on this project are PHP and SQL. The database is a MariaDB in an Apache server, al packed in a xampp
+The programming languages used on this project are PHP, SQL and CSS. The database is a MariaDB in an Apache server, al packed in a xampp
 package. 
 
 ## Launch
