@@ -1,0 +1,77 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+h1{
+	text-align:center;
+
+	color: #ffcc99;
+}
+
+.pagination {
+	color: #cdcdb1;  /* Giving some color to the pagination numbers below the table */
+
+}
+
+body{
+	background-color:#34495E;
+}
+
+/* Giving style to tables that are displayed in Person_view.php and Update.php files */
+
+table td{
+	text-align:center;
+	border: 2px solid #00004d;
+}
+
+table .sin{
+	border:0;
+}
+
+table .bot{
+	padding:0 5px;
+	display:inline;
+	border:0;
+}
+
+table .first-row{
+	font-size:1.5em;
+	background-color:#000080;
+}
+
+input[type="text"] {
+	background-color: #b8b894;
+}
+
+table tr {
+
+	color: #cdcdb1;
+
+}
+
+/* End of table styling */
+
+
+/* Giving style to buttons */
+
+input[type="button"], input[type="submit"]  {
+
+	border-radius: 20%;
+
+	border: 1px solid #00004d;
+
+	background-color: #000080;
+
+	color: #cdcdb1;
+
+	cursor: pointer;
+
+}
+
+input[type="button"]:hover, input[type="submit"]:hover {  /* Some style when user hover these buttons */
+
+	background-color: #cdcdb1;
+
+	color: #000080;
+}
+
